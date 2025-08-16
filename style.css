@@ -5,7 +5,7 @@ body {
   background: #fffdf9;
 }
 .hero {
-  background: url('images/banner.jpg') center/cover no-repeat;
+  background: url('images/banner.jpeg') center/cover no-repeat;
   height: 90vh;
   display: flex;
   align-items: center;
